@@ -1,4 +1,4 @@
-
+#FELIPPE ALLAN COSTA
 # Classe para representar um nó na árvore KD
 class NoFace:
     def __init__(self, embedding, pessoa_id, eixo=0):
