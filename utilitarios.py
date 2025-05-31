@@ -1,4 +1,4 @@
-
+#FELIPPE ALLAN COSTA
 import numpy as np
 
 # Função para calcular a distância Euclidiana entre dois vetores
